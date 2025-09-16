@@ -2,7 +2,7 @@
   <head>
     <title>collaboration</title>
     <style>
-      body{background-color:lightblue;fontstyle:Timesnewroman;color:purple;borderstyle:dashed dotted dashed dotted;}
+      body{background-color:lightblue;fontstyle:Timesnewroman;color:lavender;borderstyle:solid doble solid double;}
       p{color:red;}
     </style>
   </head>
