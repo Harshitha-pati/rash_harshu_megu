@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>collaboration</title>
+    <style>
+      body{background-color:lightblue;fontstyle:Timesnewroman;color:purple;borderstyle:dashed dotted dashed dotted;}
+      p{color:red;}
+    </style>
+  </head>
+  <body>
+    <h1>collaboration</h1>
+    <p>Today we are here to collaborate with my friends in github platform</p>
+    <p>our team members are :</p>
+    <ol>
+      <li>Harshitha</li>
+      <li>Rashmitha</li>
+      <li>Megana</li>
+    </ol>
+    <h2>****Welcome my dear Team****</h2>
+  </body>
+</html>
